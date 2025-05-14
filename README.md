@@ -1,2 +1,3 @@
 # MSE-Themes
-Themes for MSE (Music Sheet Editor)
+
+The themes repo for MSE (Music SHeet Editor)
