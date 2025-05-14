@@ -2,4 +2,4 @@
 
 The themes repo for MSE (Music Sheet Editor)
 
-This is where i store my hacker ms theme
+This is where i store my hacker mse theme
